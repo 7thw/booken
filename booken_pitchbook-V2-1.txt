@@ -1,0 +1,152 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Cover: Booken Logo Tag Line: "Revolutionizing bookings and memberships with smart NFTs"\
+Agenda:\
+What (representing the problems)\
+Who (representing the current market landscape and it\'92s actors) \
+Worth (representing the current market cap and potential revenues)\
+Wise (representing the solutions)\
+Way  (representing our strategy to get in this market: \{modify, rearrange and introduce some potential ways like: apply to be listed on top Channel Managers so client who use them can see our solution also making it easier when cold calling, network with large clients Availability providers since the top 200 providers control a large portion of all the market, imagine some more...\}\
+Wheels (representing what we need to get started. Network and Seed Money are the two wheels to move forward)\
+Problem Cover: "Header: Identifying the Problem" "Background cover image"\
+Problem P1: Today's reservation and membership systems are riddled with issues such as overbooking, market manipulation by wholesalers, unpredictable cancellations, and archaic database systems.\
+Problem P2: These inefficiencies lead to annual revenue losses in the billions, adversely affecting businesses and consumers. Well-known cases include Ticketmaster\'92s lawsuit and Southwest Airlines' 17,000 flight cancellations due to system inefficiencies.\
+Problem P3: "Title: Outdated Technology" "Bullet Points:"\
+Reliance on Outdated GDS: Many sectors, including hotels and airlines, depend on inefficient booking systems.\
+Modernization: An upgrade is critical for improving reservation processes.\
+GDS Limitations: These systems are susceptible to human error and unsuited for managing current booking volumes.\
+GDS Providers: Amadeus, Sabre, and Travelport.\
+Problem P4: "Title: Limited Capacity" "Bullet Points:"\
+Resistance to Change: Fragmentation due to reluctance towards adopting collective interoperability.\
+Human Error: Existing systems lack automation, leading to errors and impacting customer experience.\
+Incomplete Data Integration: Lack of integrated crew schedules, FAA data, and fare data leads to cancellations and revenue loss.\
+Limited Sales Options: Persisting issues with reservation verification and payment processing.\
+NDC Standard: IATA's New Distribution Capability shows promise but lacks proper integration.\
+Problem P5: "Title: NFT Innovation" "Bullet Points:"\
+Group Multisig: Organizations mint a gNFT.\
+Property & Room NFTs: Property and asset NFTs for properties and rooms.\
+Unique Booking NFTs: Guests receive unique bNFTs for each day of their stay.\
+Unique NFT Features: Token Relation, MetaLinked, Nested, and a mini NoSQL database in each NFT.\
+Market Landscape: Graphs of targeted market - Inventory Providers, OTA, Wholesalers, Channel Managers, GDS/NDC. (Explain what these percentages represent)\
+Market Potential: Our target market includes all businesses offering memberships or reservations, totaling a global market cap of over $1.64 trillion. (Include a footnote explaining how you arrived at this figure)\
+\
+Solution Cover: "Header: The Booken Solution" "Background cover image"\uc0\u8232 \
+Solution P Intro:\uc0\u8232 The introduction of Smart Booking Tokens (bNFTs) could revolutionize the booking industry by creating a decentralized, peer-to-peer marketplace for booking transactions. This innovative model presents a significant shift from the traditional centralized systems currently used by most booking platforms.\
+Here are some potential implications:\
+Dynamic Pricing: Traditional booking platforms often use static pricing models with some degree of dynamic pricing based on demand and availability. With bNFTs, the pricing becomes a truly dynamic function of supply and demand, driven by users. It allows for real-time price adjustments based on market conditions, and could even allow for secondary markets where customers can resell their bookings.\
+Enhanced Customer Experience: The bNFT system could provide a unique and personalized customer experience. For instance, every booking could come with a unique NFT artwork, adding an element of novelty and exclusivity. Plus, the customers will have the flexibility to resell, trade, or swap their bookings, offering greater control over their plans.\
+Reduced Dependency on OTAs: Currently, many hotels and airlines heavily depend on online travel agencies (OTAs) for bookings. OTAs typically charge high commission fees, significantly reducing the profit margins for hotels and airlines. With bNFTs, these establishments could reduce their dependency on OTAs by driving direct bookings via their own bNFT marketplaces.\
+Elimination of Overbooking and Cancellations: The bNFT model could potentially eliminate overbooking and cancellations, which are common issues in the industry. Since bNFTs cannot be refunded, but only resold or traded, the risk of cancellations is transferred from the hotels and airlines to the customers or the marketplace.\
+Blockchain Transparency: Blockchain technology could bring greater transparency to the booking process. All transactions would be recorded on a transparent ledger, making it easier to resolve disputes and ensuring fair transactions.\
+New Revenue Streams: The bNFT model could open up new revenue streams for businesses. For instance, they could earn transaction fees from resales on their platforms, or they could monetize the NFT artwork associated with bookings.\
+Community Building: The bNFT model could help businesses build stronger communities. For instance, frequent customers could be rewarded with exclusive or rare NFT artworks. This could drive customer loyalty and encourage repeat bookings.\
+\
+Solution P1: "Visual: Our Smart Tokens" booken Your token, your booking With the combination of IPFS for decentralized storage, Python for smart contract processing, and a transactions ledger for rules and tracking, our tokens function as compact, decentralized, self-contained computing systems. The token relations are dynamic and include a mini NoSQL database in each NFT, making them not just smart, but intelligent.\
+\
+Solution P2: "Visual: Our Booking Smart Tokens" bNFT Your token, your booking Our system achieves superior efficiency by using decentralized components, which are either nested or meta-linked. The booking tokens include group tokens (gNFT) for organizations, property tokens (pNFT) for properties, asset tokens (aNFT) for rooms, membership tokens (mNFT) for members, and user tokens (uNFT) for customers.\
+\
+Solution P3: "Visual: Basic Tech Flow" Here's how our system works. It starts with the client creating group and property tokens. The client then creates asset tokens for each available item, such as a room or seat. These tokens are then made available to customers, who receive user tokens upon booking. This system streamlines the booking process, reduces error, and makes overbooking a thing of the past.\
+\
+Solution P4: "Visual: Advanced Tech Flow" The advanced tech flow involves the use of rate tokens (rNFT) which list the current rates for the listed price, auction amounts, and minimum offers. Time tokens (tNFT) are also employed to indicate date, time, and timer availability associated with the booking. With the use of these tokens, our system becomes an efficient, user-friendly, and reliable booking platform.\
+\
+Solution P5: "Visual: The Booken Ecosystem" Our Booken SAAS/BAAS business model features a comprehensive suite of functions that make the booking process more efficient, secure, and profitable. These functions include:\
+NFT Minting: Allows for the creation of NFTs to represent assets.\
+Booking Engine: Automates the booking process and ensures no overbooking.\
+Inventory Management: Tracks the availability of assets and adjusts in real time.\
+Channel Manager: Distributes inventory across multiple channels to increase visibility.\
+PMS/POS Integration: Integrates with existing management systems for seamless operations.\
+Payment Gateway: Facilitates secure, efficient transactions.\
+Smart Contract Automation: Automates routine tasks, reducing human error.\
+Marketplaces: Facilitates the buying, selling, and trading of NFTs.\
+Affiliate & Referral Programs: Encourages growth through word-of-mouth marketing.\
+Analytics & Reporting: Provides insights for decision-making.\
+User Management: Manages user access and privileges.\
+Multilingual & Multicurrency Support: Accommodates a global audience.\
+With this comprehensive suite of features, Booken stands to revolutionize the booking industry, making it more efficient, profitable, and customer-friendly.\
+\
+Solution P6:\
+Customer booking userflow:\
+Direct Hotel Mint Booking\
+Booking Confirmation: A guest books a service (hotel room, flight, event ticket) directly through a hotel's website, which is integrated with Booken.\
+Minting the Booking: As part of the booking process, the guest chooses to 'Mint Your Reservation' into a Smart Booking Token (bNFT). This process transforms their booking into a unique digital asset that they own and can interact with, right from the outset.\
+Direct Booken D-OTX Booking\
+OTA Browsing: A guest browses services (hotel rooms, flights, event tickets) listed on the Booken D-OTX.\
+Minting the Booking: Once they decide on a service, they can directly 'Mint Your Reservation' into a Smart Booking Token (bNFT) on the D-OTX. This process transforms their booking into a unique digital asset that they own and can interact with.\
+Conventional OTA booking:\
+Booking Confirmation: A guest books a service (hotel room, flight, event ticket) through an Online Travel Agency (OTA) in a conventional way. The provider's booking system, integrated with Booken, automatically sends an email to the guest.\
+Minting Invitation: The email includes a call-to-action to 'Mint Your Reservation' into a Smart Booking Token (bNFT). It highlights the benefits of minting their reservation, including transferability, personalized assistance, unique NFT artwork, an enhanced user interface, and community engagement.\
+Minting the bNFT: The guest decides to take advantage of this offer and mints their booking into a bNFT. This process transforms their booking into a unique digital asset that they own and can interact with.\
+Change of Plans: The guest has a change of plans and decides to resell their bNFT. They list it on the provider's website, which features a dedicated marketplace for customers to buy and sell bNFTs. The guest sets their price, which could potentially be higher than the original cost due to increased demand for the service.\
+Secondary Market Purchase: Another potential customer sees the listing on the provider's website. They're interested in the service and the unique NFT artwork that comes with the bNFT. They decide to purchase the bNFT directly from the first guest, completing the transaction on the blockchain.\
+\
+Benefits for the Service Provider (SaaS Customer):\
+Market Stability: The "no refund" feature stabilizes the provider's revenue stream by eliminating cancellations and the associated uncertainty. This feature ensures that the provider will earn the booked revenue, regardless of the customer's personal circumstances.\
+Direct Sales: The provider can sell directly to customers without needing to massively discount services to wholesalers. This feature increases profitability and enables better control over pricing and revenue management.\
+Building a Community: By offering customers the opportunity to mint their reservations into bNFTs, the provider builds a direct connection with customers. This approach encourages loyalty and repeat bookings, and could also foster a community of customers who regularly trade and exchange bNFTs, further reinforcing their relationship with the provider.\
+Innovative Marketing: The unique NFT artwork associated with each booking can serve as a new form of marketing, attracting customers interested in collecting these digital assets. This approach can help the provider reach new market segments and stand out in a competitive market.\
+Automation: The Booken AI assistant integrated into each bNFT can handle customer inquiries and re-arrangements, reducing the load on the provider's customer service team and streamlining operations.\
+Value Capture: The potential for customers to sell their bNFTs at a higher price on secondary markets could lead to a new revenue stream for the provider, if they implement a mechanism to capture a percentage of the resale value.\
+\
+Solution P7\
+Airline Use Case Potential Scenario:\
+Booking: A customer, Jane, books a flight on Airline X's website. Jane has the option to book traditionally or to mint her reservation into a bNFT. Intrigued by the potential benefits, she chooses the bNFT option.\
+Minting the bNFT: After Jane completes her payment, Airline X's system automatically mints a unique bNFT representing her flight booking. This bNFT has all the details of her flight, including date, time, and seat number, along with unique NFT artwork. The bNFT is sent to Jane's wallet, and she is also sent a link to view and interact with her bNFT.\
+Interaction with the bNFT: Jane views her bNFT on the Booken platform. She can interact with the bNFT, view the flight details, and use the integrated chat feature to ask any questions or make special requests.\
+Change of Plans: A few weeks before her flight, Jane's plans change, and she can no longer make the flight. However, instead of going through the hassle of canceling her flight and potentially losing money, she decides to resell her bNFT.\
+Reselling the bNFT: Jane lists her bNFT for sale on the Booken D-OTX, setting her price. Interested buyers can view all the flight details directly on the bNFT and can also verify its authenticity because it's recorded on the blockchain.\
+Purchase of the bNFT: Another user, Tom, is planning a last-minute trip and finds Jane's bNFT listing. Seeing that it fits his schedule perfectly, he purchases the bNFT at a slightly higher price due to the last-minute demand.\
+New Owner: The bNFT is transferred to Tom's wallet. He now owns the flight booking and can interact with it just like Jane did. Airline X's systems are automatically updated with the new owner's information.\
+Flight Day: On the day of the flight, Tom presents his bNFT at the check-in counter. The airline staff verifies his booking via the bNFT, and Tom boards the flight.\
+\
+In this scenario, the airline benefits by locking in the revenue at the time of the initial booking, eliminating the uncertainty of cancellations and potential revenue loss. It also provides a unique customer experience, potentially attracting more direct bookings and reducing dependency on OTAs. Plus, the airline can also participate in the secondary market, earning transaction fees from resales.\
+\
+Solution P8\uc0\u8232 Hotel Use Case: Reducing Dependency on Wholesalers through Smart Booking Tokens:\
+Hotel's Direct Booking: A potential guest visits a hotel's website, which is integrated with Booken, to book a room.\
+Minting the Booking: During the booking process, the guest has the option to 'Mint Your Reservation' into a Smart Booking Token (bNFT), transforming their booking into a unique digital asset.\
+Benefits Highlighted: The system highlights the benefits of minting their reservation, including transferability, personalized assistance, unique NFT artwork, an enhanced user interface, and community engagement.\
+Accepting the Offer: Seeing the unique benefits, the guest opts to mint their reservation into a bNFT, creating an instant connection with the hotel.\
+Change of Plans: If the guest later has a change of plans, they have the flexibility to resell their bNFT. They list it on the hotel's website, which features a dedicated marketplace for customers to buy and sell bNFTs. The guest sets their price, potentially higher than the original cost due to increased demand for the room.\
+Secondary Market Purchase: Another potential guest sees the listing on the hotel's website. They're interested in the room and the unique NFT artwork that comes with the bNFT, so they decide to purchase the bNFT directly from the first guest.\
+\
+In this scenario, the hotel not only secures a direct booking, but also reduces its reliance on wholesalers. The bNFT system offers guests unique benefits that wholesalers cannot provide, making direct bookings more attractive. This empowers the hotel to take control of their inventory and pricing, leading to improved profitability. Additionally, the hotel can establish a closer relationship with its guests, fostering loyalty and repeat bookings. The secondary market activity on the hotel's website further enhances the guest experience and could potentially create a new revenue stream if the hotel captures a percentage of the resale value.\
+\
+Solution P9:\
+Festival & Auction Use Case\
+Let's consider a scenario where the bNFT auction functionality is utilized by a popular music festival:\
+Event Announcement: A much-awaited annual music festival, "FestX," is announced. FestX has partnered with Booken and will be offering all their tickets as bNFTs.\
+Ticket Release: FestX releases their tickets on their website. Customers have the option to purchase traditionally or to mint their ticket into a bNFT. Given the potential benefits, most customers opt for the bNFT option.\
+Minting the bNFT: Once a customer completes their payment, the FestX system automatically mints a unique bNFT representing the ticket. This bNFT has all the details of the festival, including date, time, and a unique NFT artwork. The bNFT is sent to the customer's wallet.\
+Change of Plans: A few weeks before the festival, one of the ticket holders, Jack, realizes he can no longer attend. Instead of trying to sell his ticket traditionally, he decides to auction his bNFT.\
+Auctioning the bNFT: Jack lists his bNFT for auction on the Booken D-OTX, setting a reserve price and auction end date.\
+Bidding on the bNFT: Enthusiastic festival-goers who missed the initial ticket sale start bidding on Jack's bNFT. The transparent and secure auction process on the blockchain ensures a fair bidding process.\
+Winning the Auction: As the festival date approaches, the demand increases, and the bidding war intensifies. Finally, a user named Laura places the highest bid and wins the auction just a few days before the festival.\
+New Owner: The bNFT is automatically transferred to Laura's wallet. She now owns the ticket and can interact with it just like Jack did. FestX's systems are automatically updated with the new owner's information.\
+Festival Day: On the day of the festival, Laura presents her bNFT at the entrance. The festival staff verifies her ticket via the bNFT, and Laura enjoys an unforgettable experience at FestX.\
+In this scenario, the festival organizers benefit from the certainty of ticket sales, reduced risk of fraudulent ticket sales, and the potential for higher ticket prices due to the auction. The bNFT auction functionality also creates an exciting opportunity for ticket holders to potentially profit from their purchase if they can no longer attend, adding an extra layer of value to the ticket purchase.\
+\
+Growth Strategy P1: Our goal is to address these industry-wide challenges while seamlessly integrating with existing systems, thereby offering innovative solutions that enhance the booking experience and drive profitability. We aim to take a 0.5%-2.5% fee on every transaction on our platform. Given the $1.64 trillion market cap, this model holds the potential to yield significant returns for our investors.\
+**Launch Plan\
+continue\
+ChatGPT\
+Launch Plan Cover: "Header: Setting the Stage for Success" "Background cover image"\
+Launch Plan P1: "Key Steps:"\
+Market Research: Identify the most valuable customer segments and understand their needs, challenges, and preferences to better tailor Booken's features and marketing messages.\
+Positioning and Value Proposition: Clearly communicate the unique benefits and competitive advantages of Booken, highlighting our ability to streamline processes, reduce inefficiencies, and enhance profitability.\
+Lead Generation: Implement a targeted strategy to reach potential clients across all channels, leveraging a mix of inbound and outbound marketing tactics.\
+Launch Plan P2: "Key Steps:"\
+Relationship Building: Cultivate strong relationships with industry influencers and decision-makers to create a network of advocates who can champion Booken within their organizations and the wider industry.\
+Sales Enablement: Provide our sales team with resources, tools, and training to effectively communicate Booken's value proposition and manage leads.\
+Customized Demonstrations and Pilots: Offer personalized demonstrations and pilot programs to showcase Booken's benefits and seamless integration with each stakeholder's specific systems and processes.\
+Launch Plan P3: "Key Steps:"\
+Strategic Partnerships: Establish partnerships with industry-leading technology providers and complementary service providers to enhance Booken's capabilities and reach.\
+Customer Success and Retention: Prioritize customer success by providing exceptional onboarding, training, and ongoing support. Continuously gather feedback and monitor client satisfaction to proactively address any issues, ensuring long-term success and loyalty.\
+Referral Programs and Upselling: Encourage satisfied clients to refer Booken to their industry peers and explore opportunities for upselling additional features or services.\
+Launch Plan P4: "Financial Projections" Proposed Financial Model For Two Years of Runway and Scaling\
+Launch Plan P5: By adhering to this strategic approach, we will build a robust sales pipeline and successfully integrate Booken into the entire ecosystem, driving growth and profitability for all stakeholders involved. "Booken logo"\uc0\u8232 \u8232 \u8232 \u8232 \u8232 \u8232 }
